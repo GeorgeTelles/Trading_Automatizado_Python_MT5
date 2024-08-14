@@ -1,0 +1,1 @@
+# Trading_Automatizado_Python-_MT5
