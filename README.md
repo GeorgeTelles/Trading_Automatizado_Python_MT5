@@ -1,6 +1,10 @@
 <img src="https://raw.githubusercontent.com/GeorgeTelles/georgetelles/f69531ec6b293b5148563588a764c010015d315e/logo_clara.png" width="300" align="left"/>
+<img src="https://raw.githubusercontent.com/GeorgeTelles/georgetelles/f69531ec6b293b5148563588a764c010015d315e/logo_dark.png" width="300" align="left"/>
 
-------
+
+<br>
+<br>
+
 # **Algoritmo Automatizado de Trading com Python e MetaTrader5**
 ------
 
